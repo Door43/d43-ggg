@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ggg:home|Door43 (ggg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ggg|d43-ggg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ggg/archive/master.zip|d43-ggg.zip]]
+
+**Recent Changes**
+{{changes>ns = ggg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ggg|Ethnologue data]]
+
